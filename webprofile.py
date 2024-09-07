@@ -9,7 +9,7 @@ st.title("Whoami?")
 # Introduction
 st.subheader("I'm Chetsada Srinilta (Fight)")
 st.write("""
-- 2021 - Present 🧑 Student in Debsirin school in the Mini Pnglish Program [Denbsirin school](https://www.debsirin.ac.th/index.php)
+- 2021 - Present 🧑 Student in Debsirin school in the MEP classroom [Denbsirin school](https://www.debsirin.ac.th/index.php)
 - 2024 - SuperAI Engineer Season 4
 - 2024 - Co-ops and internships LLM developer @ Bank for Agriculture and Agricultural Co-operatives ([BAAC](https://www.baac.or.th/en/))
 """)
