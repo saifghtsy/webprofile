@@ -10,7 +10,7 @@ st.title("Whoami?")
 st.subheader("I'm Chetsada Srinilta (Fight)")
 st.write("""
 - 2021 - Present 🧑 Student in Debsirin school in the MEP classroom [Denbsirin school](https://www.debsirin.ac.th/index.php)
-- 2024 - SuperAI Engineer Season 4
+- 2024 - 
 - 2024 - Co-ops and internships LLM developer @ Bank for Agriculture and Agricultural Co-operatives ([BAAC](https://www.baac.or.th/en/))
 """)
 
@@ -61,7 +61,7 @@ with st.expander("🐥 Dev Tools"):
 
 # My Skills
 st.subheader("🐥 My Skills")
-st.image("https://skillicons.dev/icons?i=python,linux,cpp,js,java,php,anaconda", use_column_width=True)
+st.image("https://skillicons.dev/icons?i=Roblox,linux,cpp,js,java,php,anaconda", use_column_width=True)
 
 # Future Plans
 st.subheader("🔮 What in Future")
