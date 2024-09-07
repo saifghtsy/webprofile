@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Page configuration
-st.set_page_config(page_title="Jeerasak Ananta", page_icon="🔱")
+st.set_page_config(page_title="Chetsada Srinilta", page_icon="💀")
 
 # Title
 st.title("🔱 Whoami")
