@@ -61,7 +61,7 @@ with st.expander("🐥 Dev Tools"):
 
 # My Skills
 st.subheader("🐥 My Skills")
-st.image("https://skillicons.dev/icons?i=Roblox,linux,cpp,js,java,php,anaconda", use_column_width=True)
+st.image("https://skillicons.dev/icons?i=python,linux,cpp,js,java,php,anaconda", use_column_width=True)
 
 # Future Plans
 st.subheader("🔮 What in Future")
