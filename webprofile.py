@@ -10,15 +10,14 @@ st.title("Whoami?")
 st.subheader("I'm Chetsada Srinilta (Fight)")
 st.write("""
 - 2021 - Present 🧑 Student in Debsirin school in the MEP classroom [Denbsirin school](https://www.debsirin.ac.th/index.php)
-- 2024 - 
-- 2024 - Co-ops and internships LLM developer @ Bank for Agriculture and Agricultural Co-operatives ([BAAC](https://www.baac.or.th/en/))
+- 2024 - Student in the IEP classroom [Debsirin school] (https://www.debsirin.ac.th/index.php)
 """)
 
 # Current Activities
 st.subheader("🧑‍💻 What I'm Doing Now")
 st.write("""
-- 💻 Studying Computer Science
-- 👨‍💻 For fun [Leet Code](https://tryhackme.com/)
+- 💻 Studying in Debsirin school
+- 👨‍💻 For fun [Youtube channel](https://www.youtube.com/@safightsy)
 - 🚩 CTFs player [TryHackMe](https://leetcode.com/_JeerasaK_/)
 - 🐧 Linux lover
 - 🤖 Learning anything with Machine Learning
