@@ -7,7 +7,7 @@ st.set_page_config(page_title="Jeerasak Ananta", page_icon="🔱")
 st.title("🔱 Whoami")
 
 # Introduction
-st.subheader("I'm Jeerasak Ananta (Game)")
+st.subheader("I'm Chetsada Srinilta (Fight)")
 st.write("""
 - 2022 - Present 🧑 Student in Computer Science [CS RMUTL NAN](https://nan.rmutl.ac.th/)
 - 2024 - SuperAI Engineer Season 4
